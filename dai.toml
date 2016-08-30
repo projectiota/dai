@@ -1,0 +1,15 @@
+### Target
+target = "hello"
+
+### Toolchain
+[toolchain]
+
+prefix = ""
+
+# Compiler
+compiler = "gcc"
+cflags = [""]
+
+# Linker
+linker = "ld"
+ldflags = [""]
