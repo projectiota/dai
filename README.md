@@ -25,7 +25,7 @@ dai <path_to_project>
 
 Dai takes a config from the special file called `dai.toml` placed in the root of your project directory.
 
-Here is the example of `dait.toml`:
+Here is the example of `dai.toml`:
 ```toml
 ### Target
 target = "hello"
